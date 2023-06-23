@@ -49,10 +49,10 @@ Descrição do projeto
 7. Java: 1.8
 8. Dynamic Web Module: 2.5
 
-![Alt text](image.png)
+![Alt text](images_readme/image.png)
 
 9. Utilização da biblioteca taglib, importação feita manualmente
-![Alt text](image-1.png)
+![Alt text](images_readme/image-1.png)
 
 10. Camada de Segurança utilizando a biblioteca BCrypt
     -  Hash unidirecional
@@ -62,10 +62,10 @@ Descrição do projeto
     - Personalização: permite que o usuário personalize sua agenda de acordo com suas preferências, com a escolha de tema.
 
 12. Telas:
-![Alt text](image-2.png)
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-5.png)
+![Alt text](images_readme/image-2.png)
+![Alt text](images_readme/image-3.png)
+![Alt text](images_readme/image-4.png)
+![Alt text](images_readme/image-5.png)
 
 
 
